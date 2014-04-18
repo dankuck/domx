@@ -5,10 +5,8 @@ DOMX is a javascript tool that allows you to explore the DOM of a webpage in bro
 
 Run this in your browser:
 
-<a href="javascript:document.body.appendChild(document.createElement('script')).src = 'http://dankuck.github.io/assets/loaddomx.js';void(0);">Run DOMX on This Page</a>
-
-It uses this code:
-
 <pre>
 javascript:document.body.appendChild(document.createElement('script')).src = 'http://dankuck.github.io/assets/loaddomx.js';void(0);
 </pre>
+
+I discuss it briefly in this blog post: <a href="http://dankuck.github.io/2014/04/17/domx.html">DOMX: Use It On Webpages</a>.
