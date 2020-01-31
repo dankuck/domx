@@ -1,6 +1,11 @@
 domx
 ====
 
+DOMX does not work anymore in any current browser I am aware of.
+
+Old Description
+===============
+
 DOMX is a javascript tool that allows you to explore the DOM of a webpage in browser. It is comparable to many of the tools that browsers have built in, but it is customizable.
 
 Run this in your browser:
